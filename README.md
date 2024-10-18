@@ -28,7 +28,7 @@
 <h2 align="center">🤝 This is my Social-Network 🤝 </h2>
 <div align="center">
   
-<a href="minecraft0808080808@gmail.com" target="_blank">
+<a href="mailto:minecraft0808080808@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="minecraft0808080808@gmail.com" style="margin-bottom: 5px" />
 </a>
 
